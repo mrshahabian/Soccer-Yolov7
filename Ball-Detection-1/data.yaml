@@ -1,0 +1,5 @@
+names:
+- Ball
+nc: 1
+train: Ball-Detection-1/train/images
+val: Ball-Detection-1/valid/images
